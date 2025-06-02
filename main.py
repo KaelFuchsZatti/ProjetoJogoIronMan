@@ -69,6 +69,7 @@ while True:
         velocidadeMissiel += 1
         if velocidadeMissiel < 10:
             velocidadeMissiel += 1
+        pontos += 1
          
         
     tela.fill(branco)
